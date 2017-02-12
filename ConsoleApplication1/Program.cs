@@ -67,7 +67,7 @@ namespace ConsoleApplication1
             sb.Replace("a", "e");
             sb.Remove(5, 7);
             Console.WriteLine(sb.ToString());
-
+            Console.WriteLine(sb.ToString());
             string test = Console.ReadLine();
 
 
